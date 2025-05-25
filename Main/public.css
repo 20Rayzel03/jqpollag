@@ -40,3 +40,8 @@ body {
             font-size: 0.9em;
             color: #cccccc;
         }
+        .logo {
+            height: 50px;
+            margin: 10px;
+            display: block;
+        }
